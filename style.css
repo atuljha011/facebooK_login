@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+}
+
+body {
+    width: 100%;
+    background-color: #f0f2f5;
+}
+
+form {
+    background-color: #fff;
+    width: 320px;
+    height: 270px;
+    padding: 10px 5px 20px 5px;
+    margin: -10vh 850px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px -7px;
+    position: absolute
+}
+
+.inputs {
+
+    display: block;
+    background-color: #fff;
+    margin: auto;
+    border: 1.5px solid rgb(200, 200, 200);
+    width: 200px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    font-family: 'segoe ui';
+    font-size: 15px;
+
+}
+
+button {
+    border: none;
+    color: white;
+    margin: auto;
+    background-color: #1877f2;
+    width: 283px;
+    display: block;
+    border-radius: 5px;
+    padding: 10px 0;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.f-pws {
+    display: block;
+    width: 200px;
+    margin: auto;
+    color: #1877f2;
+    padding-left: 80px;
+    font-family: 'seoge ui';
+    font-weight: 400;
+}
+
+.line {
+    border-top: 1px solid #222;
+    opacity: 0.2;
+}
+
+.btn-2 {
+    width: 180px;
+    font-size: 14px;
+    background-color: #42b72a;
+    text-align: center;
+}
+
+.sub-link h3 {
+    width: 270px;
+    position: relative;
+    color: black;
+    font-family: 'seoge ui Arial';
+    padding: 130px 890px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.sub-link h3 a {
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.facebook-logo {
+    width: 350px;
+    margin-left: 300px;
+    margin-top: 30vh;
+    font-family: 'segoe ui', roboto 'san-francisco';
+    
+}
+
+.facebook-logo img {
+    width: 350px;
+    margin: -28px;
+
+}
+
+h2 {
+    padding: 0px 0px 20px;
+    color: #1C1E21;
+    font-size: 23px;
+    font-weight: 600;
+    word-spacing: 3px;
+}
